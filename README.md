@@ -1,2 +1,2 @@
-# Leetcode-CS
+# Leetcode
 All my submissions for Leetcode Problems :)
