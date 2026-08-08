@@ -1,0 +1,71 @@
+using System;
+
+public class Solution
+{
+    public int[] ValidSequence(string word1, string word2)
+    {
+        int n = word1.Length;
+        int m = word2.Length;
+
+        // last[j] stores the maximum starting index in word1 from which 
+        // the suffix word2[j...] can be matched exactly.
+        int[] last = new int[m + 1];
+        last[m] = n; // Base case: empty suffix matched beyond end of word1
+
+        int p1 = n - 1;
+        for (int j = m - 1; j >= 0; j--)
+        {
+            while (p1 >= 0 && word1[p1] != word2[j])
+            {
+                p1--;
+            }
+            last[j] = p1;
+            p1--; // Move left for the next character in suffix
+        }
+
+        int[] result = new int[m];
+        bool changed = false;
+        int i = 0; // Pointer for word1
+
+        for (int j = 0; j < m; j++)
+        {
+            while (i < n)
+            {
+                if (word1[i] == word2[j])
+                {
+                    result[j] = i;
+                    i++;
+                    break;
+                }
+                else if (!changed && i + 1 <= last[j + 1])
+                {
+                    // Use our one allowed character modification greedily
+                    changed = true;
+                    result[j] = i;
+                    i++;
+                    break;
+                }
+
+                i++;
+            }
+
+            // If we could not match word2[j], no valid sequence exists
+            if (i > n || result[j] == 0 && j > 0 && result[j] <= result[j - 1])
+            {
+                if (j == 0 && result[0] == 0 && word1[0] != word2[0] && !changed)
+                {
+                    // Handle edge case check failure
+                    return new int[0];
+                }
+            }
+        }
+
+        // Verify that we generated a strictly increasing valid sequence of length m
+        if (result[m - 1] == 0 && m > 1 && result[m - 1] <= result[m - 2])
+        {
+            return new int[0];
+        }
+
+        return result;
+    }
+}
