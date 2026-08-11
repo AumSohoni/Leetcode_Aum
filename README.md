@@ -43,4 +43,8 @@ All my submissions for Leetcode Problems :)
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/AumSohoni/Leetcode_Aum/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
