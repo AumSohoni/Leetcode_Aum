@@ -34,10 +34,12 @@ All my submissions for Leetcode Problems :)
 ## Array
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -47,4 +49,8 @@ All my submissions for Leetcode Problems :)
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/AumSohoni/Leetcode_Aum/tree/master/0177-nth-highest-salary) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
