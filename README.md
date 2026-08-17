@@ -7,11 +7,13 @@ All my submissions for Leetcode Problems :)
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -21,6 +23,7 @@ All my submissions for Leetcode Problems :)
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -39,6 +42,7 @@ All my submissions for Leetcode Problems :)
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
