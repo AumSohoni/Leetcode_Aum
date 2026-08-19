@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 with cte as (
     select num,
     lead(num,1) over() num1,
