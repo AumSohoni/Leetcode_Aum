@@ -6,6 +6,7 @@ All my submissions for Leetcode Problems :)
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1872-stone-game-viii) |
@@ -216,4 +217,8 @@ All my submissions for Leetcode Problems :)
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
