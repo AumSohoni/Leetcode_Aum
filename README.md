@@ -121,6 +121,7 @@ All my submissions for Leetcode Problems :)
 | [0115-distinct-subsequences](https://github.com/AumSohoni/Leetcode_Aum/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AumSohoni/Leetcode_Aum/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -225,4 +226,12 @@ All my submissions for Leetcode Problems :)
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AumSohoni/Leetcode_Aum/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
