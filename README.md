@@ -15,6 +15,7 @@ All my submissions for Leetcode Problems :)
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3875-construct-uniform-parity-array-i) |
@@ -157,6 +158,7 @@ All my submissions for Leetcode Problems :)
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AumSohoni/Leetcode_Aum/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AumSohoni/Leetcode_Aum/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
 | ------- |
